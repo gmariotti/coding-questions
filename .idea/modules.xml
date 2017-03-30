@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arrays-and-strings/arrays-and-strings.iml" filepath="$PROJECT_DIR$/.idea/modules/arrays-and-strings/arrays-and-strings.iml" group="arrays-and-strings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arrays-and-strings/arrays-and-strings_main.iml" filepath="$PROJECT_DIR$/.idea/modules/arrays-and-strings/arrays-and-strings_main.iml" group="arrays-and-strings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/arrays-and-strings/arrays-and-strings_test.iml" filepath="$PROJECT_DIR$/.idea/modules/arrays-and-strings/arrays-and-strings_test.iml" group="arrays-and-strings" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions_main.iml" group="coding-questions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions_test.iml" group="coding-questions" />
+    </modules>
+  </component>
+</project>
