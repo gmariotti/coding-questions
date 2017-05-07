@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions_main.iml" group="coding-questions" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions_test.iml" group="coding-questions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linkedlists.iml" filepath="$PROJECT_DIR$/.idea/modules/linkedlists.iml" group="linkedlists" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linkedlists/linkedlists_main.iml" filepath="$PROJECT_DIR$/.idea/modules/linkedlists/linkedlists_main.iml" group="linkedlists" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linkedlists/linkedlists_test.iml" filepath="$PROJECT_DIR$/.idea/modules/linkedlists/linkedlists_test.iml" group="linkedlists" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviews.iml" filepath="$PROJECT_DIR$/.idea/modules/interviews.iml" group="interviews" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviews/interviews_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interviews/interviews_main.iml" group="interviews" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviews/interviews_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interviews/interviews_test.iml" group="interviews" />
