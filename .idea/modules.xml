@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions_main.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions_main.iml" group="coding-questions" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coding-questions_test.iml" filepath="$PROJECT_DIR$/.idea/modules/coding-questions_test.iml" group="coding-questions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviews.iml" filepath="$PROJECT_DIR$/.idea/modules/interviews.iml" group="interviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviews/interviews_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interviews/interviews_main.iml" group="interviews" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interviews/interviews_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interviews/interviews_test.iml" group="interviews" />
     </modules>
   </component>
 </project>

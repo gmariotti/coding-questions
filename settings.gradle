@@ -1,3 +1,4 @@
 rootProject.name = 'coding-questions'
 include 'arrays-and-strings'
+include 'interviews'
 

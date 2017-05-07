@@ -6,6 +6,8 @@
       <module name="arrays-and-strings_test" target="1.8" />
       <module name="coding-questions_main" target="1.8" />
       <module name="coding-questions_test" target="1.8" />
+      <module name="interviews_main" target="1.8" />
+      <module name="interviews_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
